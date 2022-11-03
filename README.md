@@ -1,5 +1,4 @@
-im kayo :) i study computer science and i use python!
-you can contact me on discord at kayo#0666 (pronouns she/her)
+im kayo :) i study computer science and i am awesome :P
 
 <!---
 kayocchiii/kayocchiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
