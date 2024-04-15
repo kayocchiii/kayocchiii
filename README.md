@@ -1,4 +1,4 @@
-im kayo :) i study computer science and i am awesome :P
+
 
 <!---
 kayocchiii/kayocchiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
